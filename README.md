@@ -65,18 +65,6 @@ I'm expanding my knowledge of Full-Stack development, backend technologies, and 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shakiara&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiara&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" alt="Most Used Languages" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -84,17 +72,5 @@ I'm expanding my knowledge of Full-Stack development, backend technologies, and 
 <a href="https://github.com/Shakiara">
   <img src="https://img.shields.io/badge/GitHub-Shakiara-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shakiara&style=flat-square&color=A855F7" alt="Profile Views" />
-
-**✨ Thanks for visiting my profile! ✨**
-
-*Keep learning, keep creating, and never stop exploring.*
 
 </div>
