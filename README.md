@@ -65,26 +65,6 @@ I'm expanding my knowledge of Full-Stack development, backend technologies, and 
 
 ---
 
-## 🚀 Featured Project
-
-### 💜 ALTEGO — Avatar Accessories
-
-A Full-Stack web application project focused on creating an interactive platform for exploring and managing 3D avatar accessories for Roblox.
-
-**Technologies:** Angular · Node.js · Express · MySQL · MongoDB
-
-**Project Features & Goals:**
-- Interactive 3D accessory catalog.
-- User accounts and creator profiles.
-- Product variants and customization.
-- Favorites, reviews, and collections.
-- Shopping and order management.
-- Responsive and user-friendly interface.
-
-*An academic Full-Stack project combining web development, database management, and 3D design.*
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
